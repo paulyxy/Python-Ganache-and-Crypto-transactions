@@ -5,7 +5,7 @@ from web3.gas_strategies.time_based import medium_gas_price_strategy
 
 st.set_page_config(layout="wide")
 st.title("Python, Ganache and Crypto transactions using a private key") 
-st.write("By Dr Yan, v1.0, 2/28/2023")
+st.write("By Dr Yan, v1.0, 3/1/2023")
 
 a1=" Launch Ganache first, you can download it at https://www.trufflesuite.com/ganache."
 a2=" The private key depends on who is the sender (0 is the first one). "
